@@ -43,4 +43,6 @@ As darknet commerce evolves, **Nexus Darknet 2025** continues to lead by example
 
 *Disclaimer: This article is for informational and educational purposes only. The use of darknet markets may be illegal in your jurisdiction. Please adhere to the laws of your country.*
 
-Update:  09/14/2025
+
+
+Update:  09/18/2025 Fixed broken anchor links in wiki pages
